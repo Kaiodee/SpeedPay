@@ -1,3 +1,4 @@
+//tratamento de erros
 package db;
 
 public class DbException extends RuntimeException {
